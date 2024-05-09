@@ -1,0 +1,13 @@
+.tabla {
+    font-size: 200%;
+    border: 2px black solid;
+}
+.tabla,th,td {
+    border: 2px black solid;
+    margin: 2%;
+}
+th{
+    color: rgb(0, 0, 0);
+    background-color: rgb(30, 201, 73);
+    border: 2px rgb(0, 0, 0) solid
+}
